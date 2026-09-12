@@ -3,7 +3,7 @@
 We are tasked to discover user account information on a server and crack the password of **Gordon Brown's** account. We will then locate the file that contains the Challenge 1 code and use **Gordon Brown's** account credentials to open the file at 172.17.0.2 to view its contents.
 
 ## Step 1 and Step 2: Setup and Retrieve Credentials
-From the [Findings](../attacks-and-exploitation#findings) section in the [attacks-and-exploitation](../attacks-and-exploitation), we have seen that the password hash of Gordon Brown's account is `e99a18c428cb38d5f260853678922e03`
+From the [Findings](../attacks-and-exploitation.md#findings) section in the [attacks-and-exploitation](../attacks-and-exploitation.md), we have seen that the password hash of Gordon Brown's account is `e99a18c428cb38d5f260853678922e03`
 
 ![](../resources/SQLi-passwords.png)
 
