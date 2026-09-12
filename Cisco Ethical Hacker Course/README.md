@@ -12,8 +12,11 @@ Reconnaissance that touches the target. Covers host discovery and port scanning 
 ### [Attacks & Exploitation](./attacks-and-exploitation.md)
 Exploitation techniques following active recon. Covers SQL injection on DVWA (full UNION-based chain from `' OR 1=1 #` through credential dump and hash cracking), on-path (MITM) attacks with Ettercap via ARP spoofing, social engineering with the Social Engineer Toolkit (SET) website cloner and credential harvester, and password cracking with Hashcat, John the Ripper.
 
-## Topics Not Yet Covered
+### Final Capstone [Questions](./final-capstone/Questions.pdf) and [Solutions](./final-capstone/Solutions)
+The CISCO Final Capstone Activity is a comprehensive hands-on assessment that evaluates skills across web application exploitation, network service enumeration, packet analysis, and security remediation. Throughout four distinct challenges, the activity covers exploiting SQL injection to recover and crack user credentials for SSH access, using Nmap script scans to uncover hidden web directories, enumerating unauthenticated SMB shares to extract sensitive files, and analyzing PCAP network traffic in Wireshark to reconstruct cleartext GET requests.
 
+
+## Topics Not Yet Covered
 The course covers additional topics not yet written up, including (but not limited to) pre engagement, wireless attacks, IOT security, post exploitation and reporting, and much more tools.
 
 ## Conventions
